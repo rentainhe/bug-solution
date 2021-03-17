@@ -6,3 +6,6 @@ a collection of bug solutions
   - [__Jupyter Notebook Installation__](https://github.com/rentainhe/bug-solution/blob/master/debug/jupyter_installation.md)
   - [__Jupyter Notebook Debug__](https://github.com/rentainhe/bug-solution/blob/master/debug/jupyter_bug.md)
   - [__Jupyter Notebook Add Kernels__](https://github.com/rentainhe/bug-solution/blob/master/debug/jupyter_add_kernel.md)
+
+- __Conda__
+  - [__Conda Installation__](https://github.com/rentainhe/bug-solution/blob/master/debug/conda_installation.md)
