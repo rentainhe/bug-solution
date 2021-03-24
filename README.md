@@ -11,4 +11,4 @@ a collection of bug solutions
   - [__Conda Installation__](https://github.com/rentainhe/bug-solution/blob/master/debug/conda_installation.md)
 
 - __Miner Debug__
-  - [__kill the miner__](https://github.com/rentainhe/bug-solution/blob/master/debug/miner_debug.md)
+  - [__Kill Miner__](https://github.com/rentainhe/bug-solution/blob/master/debug/miner_debug.md)
