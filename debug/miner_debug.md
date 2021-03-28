@@ -56,3 +56,20 @@ $ crontab -r
 
 
 
+### 关闭密码
+
+```bash
+$ cd /etc/ssh/
+$ vim sshd_config
+```
+
+- PermitRootLogin: 允许root权限直接登录
+- PubkeyAuthentication: 允许密钥登录
+- PasswordAuthentication: 允许密码登录
+
+重启sshd服务
+
+```bash
+$ service sshd restart
+```
+
