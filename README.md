@@ -12,3 +12,6 @@ a collection of bug solutions
 
 - __Miner Debug__
   - [__Kill Miner__](https://github.com/rentainhe/bug-solution/blob/master/debug/miner_debug.md)
+
+- __SSH__
+  - [__设置SSH通过密钥登录__](https://www.runoob.com/w3cnote/set-ssh-login-key.html)
