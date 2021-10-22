@@ -9,6 +9,7 @@ a collection of bug solutions
 
 - __Conda__
   - [__Conda Installation__](https://github.com/rentainhe/bug-solution/blob/master/debug/conda_installation.md)
+  - [__Conda清除没有用的包__](https://www.jianshu.com/p/f14ac62bef99)
 
 - __Miner Debug__
   - [__Kill Miner__](https://github.com/rentainhe/bug-solution/blob/master/debug/miner_debug.md)
